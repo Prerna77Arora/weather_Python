@@ -4,6 +4,8 @@ Over View --
 
 
 Welcome to the Weather App, a simple application designed to provide current weather information based on user input. This app is developed using Python and leverages external APIs for real-time weather data retrieval
+
+
 Features --
 
 
