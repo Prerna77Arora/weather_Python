@@ -8,16 +8,22 @@ Features --
 
 
 Current Weather: Get current weather conditions (temperature, humidity, wind speed, etc.
+
 Location-based Forecast: Forecast weather for specific locations.
+
 User-friendly Interface: Simple command-line interface for ease of us
+
 
 
 Technologies Used --
 
 
 Python: Core programming language for the application.
+
 Requests: HTTP library for making API requests.
+
 OpenWeatherMap API: External API used for weather data retrieval
+
 
 
 
